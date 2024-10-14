@@ -1,0 +1,281 @@
+fileFormatVersion: 2
+guid: aff33bf58caec4eefac1305688941ffc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crawly Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 22
+        width: 357
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -111.1977, y: -83.21788}
+        - {x: -82.02373, y: 64.66403}
+        - {x: -48.0159, y: 121}
+        - {x: 7.1723022, y: 149.14081}
+        - {x: 121.18811, y: 142.12598}
+        - {x: 159.55313, y: 22.064316}
+        - {x: 136.2781, y: -85.22989}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecc5c9dd53264f53a7cf078233ceec0
+      internalID: 1245563781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crawly Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 22
+        width: 144
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2.8759766, y: -53.735886}
+        - {x: -33.57608, y: -18.393288}
+        - {x: -54.510223, y: 8.556671}
+        - {x: -70.78958, y: 48.168488}
+        - {x: -52.45395, y: 108.23001}
+        - {x: -12.21405, y: 120.5}
+        - {x: 40.09796, y: 101.188}
+        - {x: 64.39557, y: 23.690903}
+        - {x: 57.86853, y: -45.90059}
+        - {x: 30.037964, y: -115.101845}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2cc604d311c4234a59fba2fffa5eaa
+      internalID: -827600192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crawly Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 39
+        width: 164
+        height: 227
+      alignment: 9
+      pivot: {x: 0.09613149, y: 0.2832479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 43.22705, y: -57.699898}
+        - {x: 30.094238, y: -83.65512}
+        - {x: -21.582886, y: -73.695496}
+        - {x: -76.27814, y: -81.84388}
+        - {x: -43.64453, y: -24.63478}
+        - {x: -5.1364136, y: -19.2621}
+        - {x: 21.361877, y: 1.4249115}
+        - {x: 3.0505981, y: 42.17311}
+        - {x: -39.70453, y: 29.362595}
+        - {x: -37.04419, y: 89.17601}
+        - {x: -11.338928, y: 112.89343}
+        - {x: 20.29779, y: 88.17001}
+        - {x: 13.762878, y: 48.1071}
+        - {x: 26.57312, y: 1.715332}
+        - {x: 52.34961, y: -11.626831}
+        - {x: 47.8468, y: -50.723106}
+        - {x: 64.56177, y: -101.96387}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5151a73ddf05a4a3b8aa620887f24061
+      internalID: -1745057165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crawly Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 39
+        width: 123
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0.96813965, y: -110.80355}
+        - {x: -36.185913, y: -98.75285}
+        - {x: -58.021484, y: -62.360245}
+        - {x: 55.31543, y: 107.125305}
+        - {x: 30.360535, y: -99.79264}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ac98097cd894e37b591da5cc3f3bde
+      internalID: 903395423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crawly Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 71
+        width: 88
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -11.967041, y: -23.590042}
+        - {x: -40.240234, y: 6.0548935}
+        - {x: -14.245483, y: 33.0894}
+        - {x: 27.34607, y: 20.611946}
+        - {x: 31.505249, y: -26.178558}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f02c6cf7ad54818ba8935083ab8863
+      internalID: 2056206556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Crawly Sprite Sheet_0: 1245563781
+      Crawly Sprite Sheet_1: -827600192
+      Crawly Sprite Sheet_2: -1745057165
+      Crawly Sprite Sheet_3: 903395423
+      Crawly Sprite Sheet_4: 2056206556
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

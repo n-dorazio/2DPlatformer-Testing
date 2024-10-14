@@ -1,2 +1,1 @@
-# 2DPlatformer-Testing
-My first platformer in Unity
+# 2D-Platformer-Game-Tutorial
